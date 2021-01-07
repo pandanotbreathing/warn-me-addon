@@ -1,0 +1,7 @@
+## Interface: 90002
+## Title: WarnMe
+## Notes: Combat warnings
+## Author: pandanotbreathing
+## Version: 1.0
+
+WarnMe.lua
